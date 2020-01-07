@@ -1,0 +1,14 @@
+{
+	"id": "aa5ed64d-7129-4772-8c5b-3b7d1e19331b",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://jsonplaceholder.typicode.com",
+			"enabled": true
+		}
+	],
+	"name": "Testing Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2019-12-27T02:23:39.632Z",
+	"_postman_exported_using": "Postman/7.14.0"
+}
